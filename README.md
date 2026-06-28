@@ -31,4 +31,4 @@ SCT_WD_3/
 
 ## Author
 
-Kashireddy Ashwitha
+Ashwitha Kashireddy
